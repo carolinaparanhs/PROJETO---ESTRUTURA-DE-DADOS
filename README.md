@@ -3,7 +3,7 @@ Este projeto é um exercício prático de integração entre linguagens de progr
 
 🌳 Projeto B-Tree com Integração Java & C
 
-Este projeto tem como objetivo implementar e integrar uma Árvore B (B-Tree) em uma aplicação Java com interface gráfica (Swing), proporcionando uma experiência prática de manipulação de dados e visualização das operações de inserção e busca.
+Tem como objetivo implementar e integrar uma Árvore B (B-Tree) em uma aplicação Java com interface gráfica (Swing), proporcionando uma experiência prática de manipulação de dados e visualização das operações de inserção e busca.
 
 A estrutura de dados foi desenvolvida em C e compilada como uma biblioteca nativa (DLL/SO). A integração com Java foi feita por meio da biblioteca JNA (Java Native Access), permitindo que o programa Java invoque diretamente funções da B-Tree implementadas em C.
 
