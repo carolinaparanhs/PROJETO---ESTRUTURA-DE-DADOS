@@ -12,14 +12,20 @@ Além disso, o projeto funciona como um mini banco de dados, no qual os registro
 ✨ Funcionalidades
 
 ✅ Inserção de registros (chaves numéricas) na B-Tree
+
 ✅ Busca de chaves para verificar se estão armazenadas
+
 ✅ Interface gráfica em Java (Swing) para interação simples e intuitiva
+
 ✅ Mensagens de confirmação após cada operação
+
 ✅ Estrutura de banco de dados baseada em B-Tree
 
 TELA INICIAL 
+
 <img width="478" height="385" alt="image" src="https://github.com/user-attachments/assets/293a4985-b44b-4394-9fdd-1ed6efe7d3d4" />
 
 TABELA 
+
 <img width="628" height="342" alt="image" src="https://github.com/user-attachments/assets/d638b4bb-677c-4347-acc1-a574eed0465f" />
 
